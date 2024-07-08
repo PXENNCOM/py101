@@ -13,7 +13,7 @@ Python'da değişkenler tanımlandığında veri türü belirtilmez. Bazı temel
 x = 5
 y = -10
 ````
-### Kayan Noktalı Sayılar (floats)
+###  Noktalı Sayılar (floats)
 
 ````
 pi = 3.14
